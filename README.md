@@ -27,6 +27,9 @@
 
 * * *
 
+# 0.BBR加速一键脚本
+-wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+
 # 1.八合一共存脚本+伪装站点
 
 - [Cloudflare入门教程](https://github.com/mack-a/v2ray-agent/blob/master/documents/cloudflare_init.md)
