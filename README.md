@@ -118,7 +118,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 # 0.BBR加速一键脚本
 
 ```
--wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 ```
 # 示例图
 
