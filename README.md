@@ -115,7 +115,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/dev_ss/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
-# 0.BBR加速一键脚本
+# 2.BBR加速一键脚本
 
 ```
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
